@@ -1,0 +1,6 @@
+-keepattributes *Annotation*
+-keepclassmembers class * {
+    @android.webkit.JavascriptInterface <methods>;
+}
+-keep class androidx.webkit.** { *; }
+-dontwarn com.google.android.material.**

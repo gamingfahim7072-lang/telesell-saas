@@ -1,0 +1,1 @@
+private static final String APP_URL = "https://your-deployed-server-url.com";

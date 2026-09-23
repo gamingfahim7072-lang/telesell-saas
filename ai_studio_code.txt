@@ -1,0 +1,6 @@
+PROJECT NAME: TeleSell SaaS
+PACKAGE NAME: com.telesell.app
+TECHNOLOGY: React 19, TypeScript, Vite 6, Node.js 20, Express, Android Native SDK 34, Capacitor-compatible
+FRAMEWORK: React SPA + Express Fullstack + Android Gradle Wrapper
+ANDROID MINIMUM VERSION: Android 7.0 (API Level 24)
+ANDROID TARGET VERSION: Android 14 (API Level 34)

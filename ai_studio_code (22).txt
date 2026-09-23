@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TeleSell</string>
+    <string name="title_activity_main">TeleSell</string>
+    <string name="package_name">com.telesell.app</string>
+</resources>

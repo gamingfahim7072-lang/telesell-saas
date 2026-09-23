@@ -1,0 +1,7 @@
+PORT=3000
+NODE_ENV=production
+APP_URL=https://your-deployed-server-url.com
+JWT_SECRET=YOUR_SECURE_JWT_SECRET_32_CHARS
+ENCRYPTION_KEY=0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+ADMIN_EMAIL=admin@telesell.com
+ADMIN_PASSWORD=adminpassword
